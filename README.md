@@ -14,7 +14,8 @@
 - Geopolitics | AI/ML | Data Visualization  
 
 🌐 Find Me Here:  
-- 💼 LinkedIn: [https://www.kaggle.com/batthulavinay]
+- 💼 LinkedIn:[]
+- 📊 Kaggle: [https://www.kaggle.com/batthulavinay]
   
  ⚽ Football fanatic working on Real Madrid data projects!
 
