@@ -1,5 +1,5 @@
 👋 Hi there! I'm Batthula Vinay  
-🌟 Master's Student in Smart Electric Grid | Data Enthusiast  
+🌟 Master's Student in Smart Electric Grid at NITW| Data Enthusiast  
 
 🔧 Key Skills:  
 - Python | SQL | Machine Learning | Deep Learning 
