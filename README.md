@@ -2,7 +2,7 @@
 🌟 Master's Student in Smart Electric Grid at NITW| Data Enthusiast  
 
 🔧 Key Skills:  
-- Python | SQL | Machine Learning | Deep Learning | NLP
+- Python | SQL | Machine Learning | Deep Learning 
 - NumPy, Pandas, Matplotlib, Scikit-learn, Seaborn, PowerBI
 
 📚 Current Focus:  
