@@ -12,7 +12,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
 
-
 📊 **Data Science & ML Libraries:**  
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
@@ -29,7 +28,7 @@
 
 ---
 
-## 📈 **GitHub Stats & Activity**  
+## 📊 **GitHub Stats & Activity**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=batthulavinay&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batthulavinay&layout=compact&theme=radical)  
 
@@ -39,5 +38,11 @@
 🔗 **LinkedIn** → [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batthula-vinay/)  
 📊 **Kaggle** → [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/batthulavinay)  
 
-🤝 **Let's collaborate on an exciting project!** 🚀  
+---
 
+## 📚 **Resources & Tools**  
+📂 **Jupyter Notebook** → [Jupyter Docs](https://docs.jupyter.org/en/latest/)  
+💻 **Visual Studio Code** → [VS Code Docs](https://code.visualstudio.com/docs)  
+💻 **Google Colab** → [Google Colab](https://colab.research.google.com/#scrollTo=GJBs_flRovLc)  
+
+🤝 **Let's collaborate on an exciting project!** 🚀
