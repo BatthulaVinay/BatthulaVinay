@@ -18,7 +18,7 @@
 ## 🔥 **What I'm Currently Working On**  
 🔹 **Exploring** real-world **Kaggle datasets** 📊  
 🔹 **Building & training ML/DL models** 🤖  
-🔹 **Working on data visualization projects** 📈  
+🔹 **Working on data visualization projects**   
 
 ---
 
