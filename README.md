@@ -40,12 +40,5 @@
 🔗 **LinkedIn** → [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batthula-vinay/)  
 📊 **Kaggle** → [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/batthulavinay)  
 
----
-
-## 📚 **Resources & Tools**  
-📂 **Jupyter Notebook** → [Jupyter Docs](https://docs.jupyter.org/en/latest/)  
-💻 **Visual Studio Code** → [VS Code Docs](https://code.visualstudio.com/docs)  
-💻 **Google Colab** → [Google Colab](https://colab.research.google.com/#scrollTo=GJBs_flRovLc)  
-
 🤝 **Let's collaborate on an exciting project!** 🚀  
 
