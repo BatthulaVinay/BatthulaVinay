@@ -25,6 +25,7 @@
 ## 📊 **GitHub Stats & Activity**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=batthulavinay&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batthulavinay&layout=compact&theme=radical)  
+![Metrics](https://metrics.lecoq.io/BatthulaVinay?template=classic&base.header=0&languages=1&isocalendar=1&activity=1&introduction=1&repositories=1&achievements=1&base=header,activity,community,repositories,metadata&languages.limit=8&languages.colors=github&languages.threshold=0%25&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&activity.limit=5&activity.days=14&activity.filter=all&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0)
 
 ---
 
