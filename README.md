@@ -2,7 +2,7 @@
 
 🎓 **Master's Student in Smart Electric Grid (Electrical and Electronics Engineering) @ NIT Warangal**  
 
-🚀 **Aspiring Data Scientist | Kaggle Enthusiast | ML & AI Explorer**  
+🚀 **Aspiring Data Scientist | Kaggle Expert | ML & AI Explorer**  
 
 ---
 
