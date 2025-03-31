@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm **Batthula Vinay**  
 
-🎓 **Master's Student in Smart Electric Grid (Electrical and Electronics Engineering)(June 2025)) @ NIT Warangal**  
+🎓 **Master's Student in Smart Electric Grid (Electrical and Electronics Engineering) @ NIT Warangal**  
 
 🚀 **Aspiring Data Scientist | Kaggle Expert | ML & AI Explorer**  
 
