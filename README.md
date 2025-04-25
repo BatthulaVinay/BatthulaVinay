@@ -18,14 +18,13 @@
 ## 🔥 **What I'm Currently Working On**  
 🔹 **Exploring** real-world **Kaggle datasets** 📊  
 🔹 **Building & training ML/DL models** 🤖  
-🔹 **Working on data visualization projects**   
+🔹 **Working on data visualisation projects**   
 
 ---
 
 ## 📊 **GitHub Stats & Activity**  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=batthulavinay&theme=radical&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=batthulavinay&layout=compact&theme=radical)  
-
 ---
 
 ## 🌐 **Find Me Here**  
