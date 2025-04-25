@@ -28,8 +28,7 @@
 ---
 
 ## 🌐 **Find Me Here**  
-🔗 **LinkedIn** → [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batthula-vinay/)  
-📊 **Kaggle** → [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/batthulavinay)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/batthula-vinay/)  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/batthulavinay)  
 
 🤝 **Let's collaborate on an exciting project!** 🚀  
 
