@@ -55,7 +55,6 @@ I build end-to-end Machine Learning solutions — from data analysis and model t
 ---
 
 ## 📌 Projects
-*(Pinned repositories showcase my best work)*
 
 - **End-to-End ML Projects**
   - Data preprocessing → model training → evaluation
