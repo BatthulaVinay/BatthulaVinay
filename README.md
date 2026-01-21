@@ -2,18 +2,20 @@
 
 🎓 **M.Tech – Smart Electric Grid (EEE)** | NIT Warangal  
 🤖 **Machine Learning & AI Enthusiast**  
-📊 **Data-driven problem solver | Project-first learner**
+🛠️ **ML Engineer in progress | System-oriented learner**
 
-I work on applying Machine Learning to real-world datasets, building models end-to-end, and improving them through experimentation and analysis. My focus is on learning by building, not just theory.
+I build end-to-end Machine Learning solutions — from data analysis and model training to API development and lightweight deployment. I focus on practical, real-world applications rather than isolated experiments.
 
 ---
 
 ## 🚀 What I’m Currently Working On
 - 📊 Exploring real-world datasets (Kaggle & open datasets)
-- 🤖 Building and training ML & basic DL models
-- 📈 Data visualization and insight generation
-- 🧠 Strengthening ML fundamentals & model intuition
-- 🔜 Gradually moving toward LLMs and applied AI systems
+- 🤖 Building ML & basic DL models
+- 🧠 NLP experiments (text classification, preprocessing, embeddings)
+- 🌐 Creating ML APIs using **FastAPI**
+- 🐳 Containerizing ML projects with **Docker**
+- 📈 Building interactive ML apps using **Streamlit**
+- 🔜 Gradually moving toward **LLMs, RAG, and applied AI systems**
 
 ---
 
@@ -22,17 +24,26 @@ I work on applying Machine Learning to real-world datasets, building models end-
 ### **Languages & Tools**
 - Python
 - SQL
+- Git & GitHub
 - Jupyter Notebook, Google Colab
 - VS Code
-- Git & GitHub
 
-### **Data Science & Machine Learning**
+### **Machine Learning & NLP**
 - NumPy
 - Pandas
 - Scikit-learn
+- TensorFlow
+- Natural Language Processing (tokenization, vectorization, embeddings)
+
+### **Visualization & Apps**
 - Matplotlib
 - Seaborn
-- TensorFlow (basic deep learning)
+- Streamlit
+
+### **Backend & Deployment**
+- FastAPI
+- Docker (containerized ML services)
+- REST APIs for ML inference
 
 ### **Core ML Concepts**
 - Supervised & Unsupervised Learning
@@ -46,17 +57,19 @@ I work on applying Machine Learning to real-world datasets, building models end-
 ## 📌 Projects
 *(Pinned repositories showcase my best work)*
 
-- **Exploratory Data Analysis**
-  - Data cleaning, handling missing values & outliers
-  - Visualization-driven insights
+- **End-to-End ML Projects**
+  - Data preprocessing → model training → evaluation
+  - Served models using FastAPI
 
-- **Machine Learning Models**
-  - Regression & classification problems
-  - Model comparison & hyperparameter tuning
+- **NLP Projects**
+  - Text classification & preprocessing pipelines
+  - Feature extraction using traditional NLP techniques
 
-- **Deep Learning Experiments**
-  - Neural networks using TensorFlow
-  - Observing training dynamics and improving performance
+- **Interactive ML Apps**
+  - Streamlit dashboards for model inference and visualization
+
+- **Containerized ML Systems**
+  - Dockerized ML applications for reproducibility
 
 Each project includes a clear problem statement, approach, and results.
 
@@ -76,10 +89,11 @@ Each project includes a clear problem statement, approach, and results.
 
 ## 🤝 Open to Collaboration
 I’m open to collaborating on:
-- Machine Learning projects
-- Data analysis & visualization
-- Beginner to intermediate AI systems
+- End-to-end ML systems
+- NLP applications
+- FastAPI-based ML services
+- Streamlit dashboards for ML
 
-If you enjoy learning by building, feel free to connect.
+If you like building real things, feel free to connect.
 
 
