@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Batthula Vinay
 
 🎓 **M.Tech – Smart Electric Grid (EEE)** | NIT Warangal  
-🤖 **Machine Learning & AI Enthusiast**  
-🛠️ **ML Engineer in progress | System-oriented learner**
+🤖 ** AI Engineer**  
 
 I build end-to-end Machine Learning solutions — from data analysis and model training to API development and lightweight deployment. I focus on practical, real-world applications rather than isolated experiments.
 
