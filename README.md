@@ -4,7 +4,6 @@
 AI/ML Engineer focused on building practical machine learning systems, backend APIs, and end-to-end AI applications using Python, FastAPI, Scikit-learn, Docker, and modern ML tooling.
 
 📧 Vinay.batthula999@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/batthula-vinay   
 
 ---
 
@@ -62,57 +61,6 @@ Strong foundation in:
 - Google Colab
 - Anaconda
 
----
-
-# Projects
-
-## 1. Customer Churn Prediction System
-
-End-to-end customer churn prediction system using machine learning models trained on telecom customer data.
-
-### Features
-- Data preprocessing pipeline
-- Feature engineering
-- Model training & evaluation
-- REST API deployment using FastAPI
-- Docker containerization
-- Production-oriented workflow
-
-### Models Used
-- Logistic Regression
-- Random Forest
-- Decision Tree
-- SVM
-- XGBoost
-
-### Results
-- Best Model: XGBoost
-- ROC-AUC: 0.90
-- F1-Score: 0.76
-- PR-AUC: 0.82
-
-### Tech Stack
-Python, Scikit-learn, FastAPI, Pandas, NumPy, Docker
-
----
-
-## 2. Heart Disease Prediction using Logistic Regression
-
-Healthcare ML pipeline to predict heart disease risk using patient clinical data.
-
-### Features
-- Data preprocessing
-- Feature selection
-- Correlation analysis
-- Statistical validation
-- Classification metrics visualization
-
-### Results
-- Recall Score: 0.67
-- Focused on improving sensitivity for identifying high-risk patients
-
-### Tech Stack
-Python, Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
 ---
 
 # Currently Learning
