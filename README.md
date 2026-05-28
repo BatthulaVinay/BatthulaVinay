@@ -22,7 +22,6 @@ Strong foundation in:
 - NLP
 - Mathematics & Statistics
 - Model Evaluation
-- Data Analysis
 
 ---
 # 🛠️ Tech Stack
