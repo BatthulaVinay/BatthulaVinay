@@ -3,8 +3,6 @@
 
 AI/ML Engineer focused on building practical machine learning systems, backend APIs, and end-to-end AI applications using Python, FastAPI, Scikit-learn, Docker, and modern ML tooling.
 
-📧 Vinay.batthula999@gmail.com  
-
 ---
 
 ## About Me
