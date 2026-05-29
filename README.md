@@ -88,7 +88,3 @@ Strong foundation in:
 - Work on globally impactful AI products
 - Contribute to open-source AI projects
 
-
-```python
-Always learning. Always building.
-
