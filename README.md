@@ -93,12 +93,9 @@ Strong foundation in:
 - Work on globally impactful AI products
 - Contribute to open-source AI projects
 
-### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BatthulaVinay&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BatthulaVinay&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BatthulaVinay&layout=compact&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BatthulaVinayE&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BatthulaVinay)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=BatthulaVinay&theme=tokyonight)
 
