@@ -1,7 +1,13 @@
 
-# Vinay Batthula
+<h1 align="center">Hi 👋, I'm Batthula Vinay</h1>
 
-AI/ML Engineer focused on building practical machine learning systems, backend APIs, and end-to-end AI applications using Python, FastAPI, Scikit-learn, Docker, and modern ML tooling.
+<h3 align="center">
+AI Engineer | Generative AI | RAG Systems | FastAPI | Docker
+</h3>
+
+<p align="center">
+Building practical AI applications, LLM systems, and production-ready AI products.
+</p>
 
 ---
 
