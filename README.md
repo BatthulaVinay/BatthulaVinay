@@ -75,7 +75,6 @@ Strong foundation in:
 - RAG Architecture
 - LLM Evaluation
 - AI Infrastructure
-- ML System Design
 - Vector Databases
 - Production AI Engineering
 
