@@ -47,7 +47,6 @@ Strong foundation in:
   <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
 </p>
 
-> **Data Visualization:** Matplotlib & Seaborn
 
 ## 🧠 LLM & AI Systems
 <p align="left">
