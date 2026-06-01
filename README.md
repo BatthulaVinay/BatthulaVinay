@@ -29,6 +29,19 @@ Strong foundation in:
 - Mathematics & Statistics
 - Model Evaluation
 
+Building production-ready AI applications and scalable LLM systems.
+
+Goal:
+Become a world-class AI Engineer and work on global AI products.
+
+2026 Focus:
+• RAG Systems
+• AI Agents
+• Vector Databases
+• AI Infrastructure
+• AI System Design
+• MLOps & Deployment
+
 ---
 # 🛠️ Tech Stack
 
