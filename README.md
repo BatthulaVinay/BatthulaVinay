@@ -22,13 +22,6 @@ I enjoy building:
 - ML deployment pipelines
 - AI-powered applications
 
-Strong foundation in:
-- Machine Learning
-- Deep Learning
-- NLP
-- Mathematics & Statistics
-- Model Evaluation
-
 ---
 # 🛠️ Tech Stack
 
