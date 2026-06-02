@@ -85,8 +85,3 @@ I enjoy building:
 - Work on globally impactful AI products
 - Contribute to open-source AI projects
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BatthulaVinay&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BatthulaVinay&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=BatthulaVinay&theme=github_dark)
