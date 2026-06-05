@@ -1,9 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Batthula Vinay</h1>
 
-<h3 align="center">
-AI Engineer | Generative AI | RAG Systems | FastAPI | Docker
-</h3>
 
 <p align="center">
 Building practical AI applications, LLM systems, and production-ready AI products.
@@ -11,16 +8,6 @@ Building practical AI applications, LLM systems, and production-ready AI product
 
 ---
 
-## About Me
-
-Aspiring AI/ML Engineer with an M.Tech from NIT Warangal and hands-on experience developing machine learning systems across finance and healthcare domains.
-
-I enjoy building:
-- End-to-end ML systems
-- RAG applications
-- FastAPI backend services
-- ML deployment pipelines
-- AI-powered applications
 
 ---
 # 🛠️ Tech Stack
