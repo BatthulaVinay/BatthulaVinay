@@ -6,8 +6,6 @@
 Building practical AI applications, LLM systems, and production-ready AI products.
 </p>
 
----
-
 
 ---
 # 🛠️ Tech Stack
