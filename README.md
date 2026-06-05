@@ -4,9 +4,11 @@
 
 <p align="center">
 Building practical AI applications, LLM systems, and production-ready AI products.
+  
 </p>
-
+<p align="center">
 M.Tech graduate from NIT Warangal focused on practical AI engineering.
+</p>
 ---
 # 🛠️ Tech Stack
 
