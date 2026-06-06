@@ -16,7 +16,7 @@ M.Tech graduate from NIT Warangal focused on practical AI engineering.
 ## 🚀 Featured Projects
 
 ### AI Compliance RAG System
-Classifies AI products under the EU AI Act and retrieves applicable obligations.
+Building AI project under the EU AI Act and retrieves applicable obligations.
 
 ### Production RAG Pipeline
 End-to-end retrieval pipeline with evaluation and observability.
