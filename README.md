@@ -3,8 +3,6 @@
 
 ### Building Reliable AI Systems, RAG Applications, and LLM-Powered Products
 
-M.Tech graduate from NIT Warangal focused on practical AI engineering.
-
 ## 🔭 Current Focus
 
 - RAG Systems
