@@ -44,3 +44,6 @@ Studying:
 
 Build reliable, production-grade AI systems that solve real-world problems.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BatthulaVinay&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BatthulaVinay&layout=compact)
