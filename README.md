@@ -1,51 +1,78 @@
+# Hi, I'm Vinay 👋
 
-# Hi 👋, I'm Batthula Vinay
+AI Engineer focused on building production-grade RAG systems, LLM applications, and AI infrastructure.
 
-### Building Reliable AI Systems, RAG Applications, and LLM-Powered Products
+---
 
-## 🔭 Current Focus
+## What I'm Building
 
-- RAG Systems
-- AI Evaluation
-- Retrieval & Search
-- AI Infrastructure
-- Production AI Engineering
+### AI Compliance Assistant
+A retrieval-augmented system that analyzes AI product descriptions, classifies EU AI Act risk levels, and retrieves applicable compliance obligations.
 
-## 🚀 Featured Projects
-
-### AI Compliance RAG System
-Building AI project under the EU AI Act and retrieves applicable obligations.
+**Tech:** Python, FastAPI, LangChain, Vector Database, Docker
 
 ### Production RAG Pipeline
-End-to-end retrieval pipeline with evaluation and observability.
+End-to-end retrieval system featuring:
+
+- Document ingestion
+- Chunking strategies
+- Embeddings
+- Hybrid retrieval
+- Reranking
+- Evaluation
+- Observability
+
+**Tech:** Python, FastAPI, PostgreSQL, Vector DB, Docker
 
 ### ML Deployment APIs
-FastAPI services for serving machine learning models.
+Production-ready FastAPI services for deploying and serving machine learning models.
 
-## 🔍 Interests
+---
 
-- Retrieval Systems
+## Technical Skills
+
+### AI Engineering
+- RAG Systems
+- LLM Applications
+- Prompt Engineering
 - AI Evaluation
-- Agent Reliability
-- Distributed Systems
-- Databases
+- Agent Workflows
 
-## ⚡ Right Now
+### Backend
+- Python
+- FastAPI
+- SQL
+- REST APIs
 
-Building:
-- AI Compliance RAG System
+### Infrastructure
+- Docker
+- Git
+- Linux
 
-Studying:
+### Data
+- PostgreSQL
+- Vector Databases
+- Retrieval Systems
+
+---
+
+## Currently Learning
+
 - Database Internals
 - Designing Data-Intensive Applications
+- Distributed Systems
 - AI System Design
 
-## 🎯 Goal
+---
 
-Build reliable, production-grade AI systems that solve real-world problems.
+## Current Goal
+
+Build reliable AI systems that can move from prototype to production.
+
+---
+
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BatthulaVinay&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BatthulaVinay&layout=compact)
-
-![Snake animation](https://github.com/<BatthulaVinay>/<BatthulaVinay>/blob/output/github-contribution-grid-snake.svg)
