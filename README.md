@@ -48,4 +48,4 @@ Build reliable, production-grade AI systems that solve real-world problems.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BatthulaVinay&layout=compact)
 
-![Snake animation](https://github.com/<username>/<username>/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/<BatthulaVinay>/<BatthulaVinay>/blob/output/github-contribution-grid-snake.svg)
