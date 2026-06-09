@@ -68,8 +68,3 @@ Production-ready FastAPI services for deploying and serving machine learning mod
 ## Current Goal
 
 Build reliable AI systems that can move from prototype to production.
-
----
-## GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BatthulaVinay)
