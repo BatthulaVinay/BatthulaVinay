@@ -73,7 +73,3 @@ Build reliable AI systems that can move from prototype to production.
 ## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BatthulaVinay)
-
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BatthulaVinay&layout=compact)
