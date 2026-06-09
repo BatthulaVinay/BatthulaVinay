@@ -70,18 +70,10 @@ Production-ready FastAPI services for deploying and serving machine learning mod
 Build reliable AI systems that can move from prototype to production.
 
 ---
-## Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| AI Compliance Assistant | RAG system for EU AI Act compliance |
-| Production RAG Pipeline | Retrieval, reranking, evaluation |
-| FastAPI ML Deployment | Production ML serving APIs |
-| AI Interview Simulator | LLM-powered interview practice |
 ## GitHub Stats
 
----
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BatthulaVinay&show_icons=true)
+
+## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BatthulaVinay&layout=compact)
