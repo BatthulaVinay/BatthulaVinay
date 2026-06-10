@@ -9,7 +9,7 @@ AI Engineer focused on building production-grade RAG systems, LLM applications, 
 ### AI Compliance Assistant
 A retrieval-augmented system that analyzes AI product descriptions, classifies EU AI Act risk levels, and retrieves applicable compliance obligations.
 
-**Tech:** Python, FastAPI, LangChain, Vector Database, Docker
+**Tech:** Python, FastAPI, LangChain, Vector Database, Docker,Langsmith
 
 ### Production RAG Pipeline
 End-to-end retrieval system featuring:
@@ -22,10 +22,6 @@ End-to-end retrieval system featuring:
 - Evaluation
 - Observability
 
-**Tech:** Python, FastAPI, PostgreSQL, Vector DB, Docker
-
-### ML Deployment APIs
-Production-ready FastAPI services for deploying and serving machine learning models.
 
 ---
 
