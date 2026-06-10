@@ -38,7 +38,6 @@ End-to-end retrieval system featuring:
 - Python
 - FastAPI
 - SQL
-- REST APIs
 
 ### Infrastructure
 - Docker
