@@ -55,7 +55,6 @@ End-to-end retrieval system featuring:
 
 - Database Internals
 - Designing Data-Intensive Applications
-- Distributed Systems
 - AI System Design
 
 ---
