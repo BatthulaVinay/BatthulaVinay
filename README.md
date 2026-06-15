@@ -30,7 +30,6 @@ End-to-end retrieval system featuring:
 ### AI Engineering
 - RAG Systems
 - LLM Applications
-- Prompt Engineering
 - AI Evaluation
 - Agent Workflows
 
