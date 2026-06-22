@@ -43,7 +43,6 @@ End-to-end retrieval system featuring:
 - Linux
 
 ### Data
-- PostgreSQL
 - Vector Databases
 - Retrieval Systems
 
