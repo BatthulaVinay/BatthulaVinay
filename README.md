@@ -31,7 +31,6 @@ End-to-end retrieval system featuring:
 - RAG Systems
 - LLM Applications
 - AI Evaluation
-- Agent Workflows
 
 ### Backend
 - Python
