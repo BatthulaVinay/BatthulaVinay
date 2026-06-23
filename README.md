@@ -49,8 +49,6 @@ End-to-end retrieval system featuring:
 ---
 
 ## Currently Learning
-
-- Database Internals
 - Designing Data-Intensive Applications
 - AI System Design
 
