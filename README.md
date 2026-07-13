@@ -48,12 +48,6 @@ End-to-end retrieval system featuring:
 
 ---
 
-## Currently Learning
-- Designing Data-Intensive Applications
-- AI System Design
-
----
-
 ## Current Goal
 
 Build reliable AI systems that can move from prototype to production.
