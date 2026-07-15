@@ -4,7 +4,7 @@ AI Engineer focused on building production-grade RAG systems, LLM applications, 
 
 ---
 
-## What I'm Building
+### What I'm Building
 
 ### AI Compliance Assistant
 A retrieval-augmented system that analyzes AI product descriptions, classifies EU AI Act risk levels, and retrieves applicable compliance obligations.
@@ -21,7 +21,6 @@ End-to-end retrieval system featuring:
 - Reranking
 - Evaluation
 - Observability
-
 
 ---
 
